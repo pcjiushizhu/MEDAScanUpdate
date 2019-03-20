@@ -1,2 +1,2 @@
 # MEDAScanUpdate
-软件更新服务器
+V1.0.0.2
