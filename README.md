@@ -1,2 +1,2 @@
 # MEDAScanUpdate
-Version1.0.0.3
+Version1.0.0.4
