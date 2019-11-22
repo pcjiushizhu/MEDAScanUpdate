@@ -1,12 +1,7 @@
 # MEDAScanUpdate
-Version[1.0.0.4]Version
+Version 1.0.0.4
 
-Path1[https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk]Path1
+Path1 https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk
 
-Path2[https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk]Path2
+Path2 https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk
 
-forceUpdate[false]forceUpdate
-
-forceUpdatePath[Path1]forceUpdatePath
-
-Source[MEDA_BladderScan_FDA.apk]Source
