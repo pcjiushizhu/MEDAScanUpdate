@@ -5,6 +5,6 @@ Path1[https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_
 
 Path2[https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk]Path2
 
-forceUpdate[false]
+forceUpdate[false]forceUpdate
 
 Source[MEDA_BladderScan_FDA.apk]Source
