@@ -1,8 +1,8 @@
 {
 	"VersionName" : "V1.0.0.4a",
 	"Message" : "V1.0.0.4",
-	"VersionCode" : "3",
-	"Date" : "20191124",
+	"VersionCode" : "4",
+	"Date" : "20191127",
 	"Path1" : "https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
 	"Path2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
 	"checkPath1" : "https://raw.githubusercontent.com/pcjiushizhu/MEDAScanUpdate/master/Version.json",
