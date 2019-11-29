@@ -7,7 +7,7 @@
 	"Path2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
 	"checkPath1" : "https://raw.githubusercontent.com/pcjiushizhu/MEDAScanUpdate/master/Version.json",
 	"checkPath2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/Version.json",
-	"forceUpdate" : "true",
+	"forceUpdate" : "false",
 	"firstPath" : "Path1",
 	"Source" : "MEDA_BladderScan_FDA.apk"
 }
