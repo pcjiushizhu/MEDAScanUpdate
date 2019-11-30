@@ -2,7 +2,7 @@
 	"VersionName" : "1.0.0.4",
 	"Message" : "\n● What's new:\n    Update the Probe Clock.\n\n● Download from: \n    Version_4a_norge",
 	"VersionCode" : "4",
-	"Date" : "20191128",
+	"Date" : "20191130",
 	"Path1" : "https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
 	"Path2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
 	"checkPath1" : "https://raw.githubusercontent.com/pcjiushizhu/MEDAScanUpdate/master/Version.json",
