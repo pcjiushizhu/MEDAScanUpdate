@@ -1,12 +1,12 @@
 {
 	"VersionName" : "1.0.0.4",
-	"Message" : "\n‚óè What's new:\n    Update the Probe Clock.\n\n‚óè Download from: \n    Version_4a_en",
+	"Message" : "\n°Ò What's new:\n    Update the Probe Clock.\n\n°Ò Download from: \n    Version_4a_en",
 	"VersionCode" : "4",
-	"Date" : "20191128",
-	"Path1" : "https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
-	"Path2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
-	"checkPath1" : "https://raw.githubusercontent.com/pcjiushizhu/MEDAScanUpdate/master/Version.json",
-	"checkPath2" : "https://gitlab.com/pcjiushizhu/MEDAScanUpdate/raw/master/Version.json",
+	"Date" : "20191129",
+	"Path1" : "http://www.meda.com.cn/MEDA_BladderScan_FDA.apk",
+	"Path2" : "https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_FDA.apk",
+	"checkPath1" : "http://www.meda.com.cn/Version.json",
+	"checkPath2" : "https://raw.githubusercontent.com/pcjiushizhu/MEDAScanUpdate/master/Version.json",
 	"forceUpdate" : "false",
 	"firstPath" : "Path1",
 	"Source" : "MEDA_BladderScan_FDA.apk"
