@@ -1,8 +1,8 @@
 {
 	"VersionName" : "1.0.0.4",
-	"Message" : "\n¡ñ What's new:\n    Update the Probe Clock.\n\n¡ñ Download from: \n    Version_4a_norge",
-	"VersionCode" : "4",
-	"Date" : "20191129",
+	"Message" : "\n-> What's new:\n    Update the Probe Clock.\n\n-> Download from: \n    Version_4a_norge",
+	"VersionCode" : "1",
+	"Date" : "20191203",
 	"Path1" : "http://www.meda.com.cn/MEDA_BladderScan_Norge.apk",
 	"Path2" : "https://github.com/pcjiushizhu/MEDAScanUpdate/raw/master/MEDA_BladderScan_Norge.apk",
 	"checkPath1" : "http://www.meda.com.cn/Version_Norge.json",
