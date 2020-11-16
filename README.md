@@ -1,5 +1,5 @@
 # MEDAScanUpdate
-Version 1.0.0.4
+Version 1.0.0.6
 
 Path1 http://meda.com.cn/MD6000P_EN.apk
 
